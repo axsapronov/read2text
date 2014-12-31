@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='read2text',
-    version='0.0.1',
+    version='0.0.2',
     url='',
     license='',
     packages=find_packages(),
